@@ -1,8 +1,8 @@
 ##### Install helm chart in local
-[setup helm chart local]("https://helm.sh/docs/intro/install/")
+[setup helm chart local](https://helm.sh/docs/intro/install/)
 
 ##### Set up heml prometheus, alertmanager, grafana
-[setup prometheus by helm]("https://github.com/GitEic-Bhavin/35D-Training-repo/tree/training/Project/Day35")
+[setup prometheus by helm](https://github.com/GitEic-Bhavin/35D-Training-repo/tree/training/Project/Day35)
 
 ##### Setup eksctl.
 ```
@@ -20,6 +20,6 @@ sudo mv /tmp/eksctl /usr/local/bin
 ```
 
 - You can follow official instructions for other plateform
-[eks installations]("https://eksctl.io/installation/") 
+[eks installations](https://eksctl.io/installation/)
 
 
